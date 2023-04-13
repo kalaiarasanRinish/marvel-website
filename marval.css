@@ -1,0 +1,79 @@
+.container{
+    border: 2px solid black;
+    height: 750px;
+    width: 1500px;
+    -webkit-box-shadow: 3px 3px 3px 3px #4d4a4a;
+            box-shadow: 3px 3px 3px 3px #4d4a4a;
+            background-color: dimgray;
+            /* background-image: url(./wp4110190.webp);
+            background-repeat: no-repeat;
+            background-size: cover;
+   */
+}
+.cont{
+    border: 2px solid white;
+    text-align: center;
+    text-size-adjust: 100px;
+    height: 40px;
+     width: 130px; 
+    margin-left: 38vw;
+    margin-top: 4px;
+    background-color: red;
+    color: aliceblue;
+    
+
+}
+.lis{
+    margin-left: 380px;
+    margin-top: 10px;
+    /* margin-bott2om: 50px; */
+}
+.l{
+  margin-top: 10px;
+    /* margin-left: 1300px; */
+    text-align: end;
+    margin-right: 10px;
+    
+}
+.un{
+    margin-top: 20px;
+    /* margin-right: 10px; */
+    margin-left: 1050px;
+    color: aliceblue;
+    position: absolute;
+}
+.s{
+    margin-left: 85px;
+    color: red;
+}
+.avenger{
+    margin-left: 60px;
+    margin-top: 50px;
+   
+
+}
+#kalai{
+    /* margin-left: 10px; */
+    padding: 10px;
+}
+.flux{
+    /* border: 2px solid brown; */
+    display: flex;
+    flex-wrap: wrap;
+    text-align: start;
+}
+.se{
+    margin-top: 35px;
+    text-align: end;
+    margin-right: 190px;
+    
+    
+    
+}
+.tab {
+    margin-right: 100px;
+    text-align: end;
+    margin-top: 100px;
+    
+  }
+  
